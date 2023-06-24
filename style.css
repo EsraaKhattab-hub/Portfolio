@@ -106,9 +106,8 @@ section{
     padding: 10px 7%;
 }
 .home{
-    /* background: linear-gradient(to right ,#333399,#ff00cc); */
-     /* background: linear-gradient(to right ,#333399,#b81d99); */
-background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);    min-height: 100vh;
+    background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);   
+    min-height: 100vh;
     height: 100%;
     width: 100%;
     display: grid;
@@ -176,7 +175,6 @@ background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, 
 .info-box span{
     font-size: 0.9rem;
     color: rgb(189, 189, 189);
-    /* letter-spacing: 0.5px; */
 }
 .btn-box{
     display: flex;
@@ -518,19 +516,19 @@ background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, 
 }
 .skill-bar .bar .photo{
     width: 60%;
-    animation: sass 6s;
+    animation: sass 7s;
 }
 .skill-bar .bar .ill{
     width: 50%;
-    animation: sass 6s;
+    animation: sass 5.5s;
 }
 .skill-bar .bar .react{
     width: 60%;
-    animation: sass 6s;
+    animation: sass 7s;
 }
 .skill-bar .bar .ang{
     width: 75%;
-    animation: sass 6s;
+    animation: sass 4s;
 }
 
 /* skill right ------------------------------------------------------------------------------------- */
