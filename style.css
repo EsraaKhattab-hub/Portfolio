@@ -106,7 +106,8 @@ section{
     padding: 10px 7%;
 }
 .home{
-    background: linear-gradient(to right ,#333399,#ff00cc);
+    /* background: linear-gradient(to right ,#333399,#ff00cc); */
+     background: linear-gradient(to right ,#333399,#fd3bd6);
     min-height: 100vh;
     height: 100%;
     width: 100%;
@@ -400,7 +401,7 @@ h1{
     text-transform: uppercase;
 } 
 .services{
-    background: linear-gradient(to right ,#333399,#ff00cc);
+    background: linear-gradient(to right ,#333399,#fd3bd6);
  
 }
 .section-services{
@@ -678,7 +679,7 @@ h1{
     outline: 2px solid #fff;
 }
 .port{
-    background: linear-gradient(to right ,#333399,#ff00cc);
+    background: linear-gradient(to right ,#333399,#fd3bd6);
 
 }
 .port-content a i{
