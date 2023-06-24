@@ -106,7 +106,8 @@ section{
     padding: 10px 7%;
 }
 .home{
-    background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);   
+    background-image: linear-gradient(to right, #282c7e, #623c96, #954eab, #c761bd, #f976cc);
+    /* background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);    */
     min-height: 100vh;
     height: 100%;
     width: 100%;
@@ -399,7 +400,8 @@ h1{
     text-transform: uppercase;
 } 
 .services{
-background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2); 
+    background-image: linear-gradient(to right, #282c7e, #623c96, #954eab, #c761bd, #f976cc);
+/* background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);  */
 }
 .section-services{
     display: flex;
@@ -676,7 +678,8 @@ background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, 
     outline: 2px solid #fff;
 }
 .port{
-background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);
+    background-image: linear-gradient(to right, #282c7e, #623c96, #954eab, #c761bd, #f976cc);
+/* background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2); */
 }
 .port-content a i{
     font-size: 1.3rem;
