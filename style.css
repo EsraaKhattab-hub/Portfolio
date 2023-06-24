@@ -107,8 +107,8 @@ section{
 }
 .home{
     /* background: linear-gradient(to right ,#333399,#ff00cc); */
-     background: linear-gradient(to right ,#333399,#fd3bd6);
-    min-height: 100vh;
+     /* background: linear-gradient(to right ,#333399,#b81d99); */
+background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);    min-height: 100vh;
     height: 100%;
     width: 100%;
     display: grid;
@@ -401,8 +401,7 @@ h1{
     text-transform: uppercase;
 } 
 .services{
-    background: linear-gradient(to right ,#333399,#fd3bd6);
- 
+background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2); 
 }
 .section-services{
     display: flex;
@@ -679,8 +678,7 @@ h1{
     outline: 2px solid #fff;
 }
 .port{
-    background: linear-gradient(to right ,#333399,#fd3bd6);
-
+background-image: linear-gradient(to right, #141872, #4a2093, #7d24b1, #b222cc, #eb12e2);
 }
 .port-content a i{
     font-size: 1.3rem;
