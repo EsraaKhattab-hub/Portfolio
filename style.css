@@ -32,7 +32,7 @@ body{
     color:var(--text-color);
 }
 p{
-    font-family: 'Roboto';  
+    font-family: 'Roboto' !important;  
     font-weight: 800px;
     color:#ffffff !important;
 }
@@ -399,8 +399,7 @@ h1{
 }
 .main-text span{
     color:#bdbdbd;
-    /* font-family: 'Roboto';  */
-    font-family: system-ui;
+    font-family: 'Roboto' !important; 
     font-size: .8rem;
     font-weight: 200;
     word-spacing: 4px;
