@@ -399,7 +399,8 @@ h1{
 }
 .main-text span{
     color:#bdbdbd;
-    font-family: 'Roboto'; 
+    /* font-family: 'Roboto';  */
+    font-family: system-ui;
     font-size: .8rem;
     font-weight: 200;
     word-spacing: 4px;
