@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -29,6 +30,11 @@ body{
     font-family: 'Lobster', cursive;
     background-color: var(--bg-color);
     color:var(--text-color);
+}
+p{
+    font-family: 'Roboto';  
+    font-weight: 800px;
+    color:#ffffff !important;
 }
 header{
     position: fixed;
@@ -303,7 +309,7 @@ h1{
     display: flex;
     justify-content: center;
     align-items:center;
-    grid-gap: 2em;
+    grid-gap: 8em;
 }
 .about .img-about{
     text-align: center;
@@ -393,6 +399,7 @@ h1{
 }
 .main-text span{
     color:#bdbdbd;
+    font-family: 'Roboto'; 
     font-size: .8rem;
     font-weight: 200;
     word-spacing: 4px;
@@ -982,5 +989,6 @@ footer a i{
         height: auto;
         width: 400px;
     }
+ 
 
 }
